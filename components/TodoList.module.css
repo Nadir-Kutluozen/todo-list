@@ -1,0 +1,11 @@
+.card{
+    border-radius: 25px;
+    border: 25px;
+    max-width: 500px;
+    max-height: 500px;
+    align-items: center;
+    padding: 2rem;
+    color:white;
+    background-color: rgb(44, 44, 44);
+    text-align: center;
+}
